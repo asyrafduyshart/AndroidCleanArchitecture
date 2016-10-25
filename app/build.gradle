@@ -1,0 +1,105 @@
+apply plugin: 'com.android.application'
+
+apply plugin: 'com.neenbedankt.android-apt' // Assists in working with annotation processors for Android Studio.
+
+apply plugin: 'me.tatarka.retrolambda'
+//retrolambda {
+//    jvmArgs '-noverify'
+//    oldJdk JAVA7_HOME
+//    jdk JAVA8_HOME
+//}
+
+android {
+    compileSdkVersion 25
+    buildToolsVersion "25.0.0"
+
+    defaultConfig {
+        applicationId "com.asyraf.clean"
+        minSdkVersion 21
+        targetSdkVersion 25
+        versionCode gitCommitCount()
+        versionName "1.0"
+        buildConfigField "String", "BUILD_TIME", "\"${buildTime()}\""
+        buildConfigField "String", "GIT_SHA", "\"${gitSha()}\""
+        buildConfigField "String", "GIT_BRANCH", "\"${gitBranch()}\""
+
+    }
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+        }
+    }
+    productFlavors {
+        dev {
+            applicationId "com.asyraf.clean.dev"
+            versionName "${android.defaultConfig.versionName}-${buildTime()}-${gitBranch()}"
+            resValue "string", "app_name", "CleanList"
+        }
+        prod {
+            resValue "string", "app_name", "CleanList"
+        }
+    }
+    compileOptions {
+        sourceCompatibility JavaVersion.VERSION_1_8
+        targetCompatibility JavaVersion.VERSION_1_8
+    }
+}
+
+dependencies {
+    compile fileTree(dir: 'libs', include: ['*.jar'])
+    devCompile project(path: ':data', configuration: 'devDebug')
+    prodCompile project(path: ':data', configuration: 'devDebug')
+    compile 'com.android.support:appcompat-v7:25.0.0'
+    compile 'com.android.support:recyclerview-v7:25.0.0'
+    compile 'com.android.support:design:25.0.0'
+
+    //https://github.com/JakeWharton/butterknife
+    compile 'com.jakewharton:butterknife:7.0.1'
+
+    //https://github.com/ReactiveX/RxJava
+    compile 'io.reactivex:rxjava:1.1.0'
+    compile 'io.reactivex:rxandroid:1.1.0'
+    compile 'com.jakewharton.rxbinding:rxbinding:0.4.0'
+
+    //https://github.com/google/dagger
+    compile 'com.google.dagger:dagger:2.0.1'
+    compile 'org.glassfish:javax.annotation:10.0-b28'
+    apt "com.google.dagger:dagger-compiler:2.0.1"
+    testApt 'com.google.dagger:dagger-compiler:2.0.1'
+
+    //https://github.com/square/picasso
+    compile 'com.squareup.picasso:picasso:2.5.2'
+
+    testCompile 'junit:junit:4.12'
+    testCompile 'org.mockito:mockito-core:1.9.5'
+
+    compile 'me.everything:overscroll-decor-android:1.0.3'
+
+    debugCompile 'com.squareup.leakcanary:leakcanary-android:1.4-beta2'
+    releaseCompile 'com.squareup.leakcanary:leakcanary-android-no-op:1.4-beta2'
+    testCompile 'com.squareup.leakcanary:leakcanary-android-no-op:1.4-beta2'
+}
+
+import java.text.SimpleDateFormat
+
+def buildTime() {
+    def df = new SimpleDateFormat("yyyyMMddHHmm")
+    return df.format(new Date())
+}
+
+def gitCommitCount() {
+    return "git rev-list HEAD --first-parent --count".execute().text.trim().toInteger()
+}
+
+def gitTag() {
+    return "git describe --dirty=".execute().text.trim()
+}
+
+def gitSha() {
+    return "git rev-parse --short HEAD".execute().text.trim()
+}
+
+def gitBranch() {
+    return "git rev-parse --abbrev-ref HEAD".execute().text.trim()
+}

@@ -1,0 +1,285 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/ftg/.gradle/caches/modules-2/files-2.1/org.glassfish/javax.annotation/10.0-b28/30eb3b3cc9cb0863a4edaea5a7575f8ace1b96ba/javax.annotation-10.0-b28.jar"
+        jumboMode="false"
+        revision="25.0.0"
+        sha1="30eb3b3cc9cb0863a4edaea5a7575f8ace1b96ba">
+        <dex dex="/home/ftg/Development/Klik/ListOfThings/app/build/intermediates/pre-dexed/dev/debug/javax.annotation-10.0-b28_dec8bb66611b55ac9c597d0b8298f82f4e834505.jar" />
+    </item>
+    <item
+        jar="/home/ftg/.gradle/caches/modules-2/files-2.1/com.toddway/shelf/1.1.0/309335da1c3e9deea312304deff95ce9d07378a6/shelf-1.1.0.jar"
+        jumboMode="false"
+        revision="25.0.0"
+        sha1="309335da1c3e9deea312304deff95ce9d07378a6">
+        <dex dex="/home/ftg/Development/Klik/ListOfThings/app/build/intermediates/pre-dexed/dev/debug/shelf-1.1.0_eeeef7d2187dc591094d9d9bda4d7f6f7d5e5867.jar" />
+    </item>
+    <item
+        jar="/home/ftg/Development/Klik/ListOfThings/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        revision="25.0.0"
+        sha1="f2e3b9bc1ec25f652e8007ce7774c991e38f6a00">
+        <dex dex="/home/ftg/Development/Klik/ListOfThings/app/build/intermediates/pre-dexed/dev/debug/internal_impl-25.0.0_92a91359bff7632235b4b5cf3090e6637721ded8.jar" />
+    </item>
+    <item
+        jar="/home/ftg/Development/Klik/ListOfThings/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.0"
+        sha1="53a420cd4f49274db6bd43475f8006ba67ef6bbd">
+        <dex dex="/home/ftg/Development/Klik/ListOfThings/app/build/intermediates/pre-dexed/dev/debug/com.android.support-animated-vector-drawable-25.0.0_bd98d41f8d3d6c69d6b245b799924fa08fecc65f.jar" />
+    </item>
+    <item
+        jar="/home/ftg/.gradle/caches/modules-2/files-2.1/io.reactivex/rxjava/1.1.0/748f0546d5c3c27f1aef07270ffea0c45f0c42a4/rxjava-1.1.0.jar"
+        jumboMode="false"
+        revision="25.0.0"
+        sha1="748f0546d5c3c27f1aef07270ffea0c45f0c42a4">
+        <dex dex="/home/ftg/Development/Klik/ListOfThings/app/build/intermediates/pre-dexed/dev/debug/rxjava-1.1.0_9d755e4d97e3d02e2520a0bcfae0ed0ccc79cf9d.jar" />
+    </item>
+    <item
+        jar="/home/ftg/Development/Klik/ListOfThings/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.0"
+        sha1="26674000177e45447a0326a6ad84612761199a13">
+        <dex dex="/home/ftg/Development/Klik/ListOfThings/app/build/intermediates/pre-dexed/dev/debug/com.android.support-support-core-ui-25.0.0_b3fc94d45c0a74842f63e98703276fd00638eee4.jar" />
+    </item>
+    <item
+        jar="/home/ftg/Development/Klik/ListOfThings/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/ftg/Development/Klik/ListOfThings/app/build/intermediates/pre-dexed/dev/debug/com.android.support-support-v4-25.0.0_d43af1e7487110d088574b44ed2b995fa922c347.jar" />
+    </item>
+    <item
+        jar="/home/ftg/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp/okhttp-urlconnection/2.2.0/cb20062e14c523637b7643295418097b48cccec2/okhttp-urlconnection-2.2.0.jar"
+        jumboMode="false"
+        revision="25.0.0"
+        sha1="cb20062e14c523637b7643295418097b48cccec2">
+        <dex dex="/home/ftg/Development/Klik/ListOfThings/app/build/intermediates/pre-dexed/dev/debug/okhttp-urlconnection-2.2.0_a71f4eec323730f2c6a25b38d80aa58109d16e46.jar" />
+    </item>
+    <item
+        jar="/home/ftg/Development/Klik/ListOfThings/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        revision="25.0.0"
+        sha1="665d21a8a069c96b4d9e8b434f5096d865b4e261">
+        <dex dex="/home/ftg/Development/Klik/ListOfThings/app/build/intermediates/pre-dexed/dev/debug/internal_impl-25.0.0_bd5b80d554623fb3b965764cae4682d60854c633.jar" />
+    </item>
+    <item
+        jar="/home/ftg/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.5.2/7446d06ec8d4f7ffcc53f1da37c95f200dcb9387/picasso-2.5.2.jar"
+        jumboMode="false"
+        revision="25.0.0"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="/home/ftg/Development/Klik/ListOfThings/app/build/intermediates/pre-dexed/dev/debug/picasso-2.5.2_681c31655721a60561d4bf734b135f8179a382fd.jar" />
+    </item>
+    <item
+        jar="/home/ftg/Development/Klik/ListOfThings/app/build/intermediates/exploded-aar/ListOfThings/data/unspecified/devDebug/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.0"
+        sha1="713fad73da2e9a3e5607c0b7504e760c63f49ac9">
+        <dex dex="/home/ftg/Development/Klik/ListOfThings/app/build/intermediates/pre-dexed/dev/debug/data-unspecified-devDebug_8338cd53549e39ed36fbca38183e13283d113de3.jar" />
+    </item>
+    <item
+        jar="/home/ftg/Development/Klik/ListOfThings/core/build/libs/core.jar"
+        jumboMode="false"
+        revision="25.0.0"
+        sha1="753560e563c1a4512c7eee3a6ef836db4ef688b6">
+        <dex dex="/home/ftg/Development/Klik/ListOfThings/app/build/intermediates/pre-dexed/dev/debug/core_b6065e428e4f09c7cdb66ae650eb05a1e178fc58.jar" />
+    </item>
+    <item
+        jar="/home/ftg/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp/okhttp/2.2.0/959c454243581fdf730abfd4f4745441724bcf2c/okhttp-2.2.0.jar"
+        jumboMode="false"
+        revision="25.0.0"
+        sha1="959c454243581fdf730abfd4f4745441724bcf2c">
+        <dex dex="/home/ftg/Development/Klik/ListOfThings/app/build/intermediates/pre-dexed/dev/debug/okhttp-2.2.0_edfc8afe22ee7b55a3a6a06232e4cf7cbca772c8.jar" />
+    </item>
+    <item
+        jar="/home/ftg/Development/Android/SDK/extras/android/m2repository/com/android/support/support-annotations/25.0.0/support-annotations-25.0.0.jar"
+        jumboMode="false"
+        revision="25.0.0"
+        sha1="a22d2cc94da87b254451fa8ed28afc30b4653773">
+        <dex dex="/home/ftg/Development/Klik/ListOfThings/app/build/intermediates/pre-dexed/dev/debug/support-annotations-25.0.0_c8bc8db59f02b28405853e958058a77037841995.jar" />
+    </item>
+    <item
+        jar="/home/ftg/.gradle/caches/modules-2/files-2.1/com.jakewharton/butterknife/7.0.1/d5d13ea991eab0252e3710e5df3d6a9d4b21d461/butterknife-7.0.1.jar"
+        jumboMode="false"
+        revision="25.0.0"
+        sha1="d5d13ea991eab0252e3710e5df3d6a9d4b21d461">
+        <dex dex="/home/ftg/Development/Klik/ListOfThings/app/build/intermediates/pre-dexed/dev/debug/butterknife-7.0.1_203325b8416a492ca7aa9639a304e526ff3b21eb.jar" />
+    </item>
+    <item
+        jar="/home/ftg/Development/Klik/ListOfThings/app/build/intermediates/exploded-aar/com.squareup.leakcanary/leakcanary-android/1.4-beta2/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.0"
+        sha1="9c8472f8e10502af60d0f63ea11eed68bdf690c2">
+        <dex dex="/home/ftg/Development/Klik/ListOfThings/app/build/intermediates/pre-dexed/dev/debug/com.squareup.leakcanary-leakcanary-android-1.4-beta2_656b0027144ded7265cb22cd0e84c3fb3c234e1a.jar" />
+    </item>
+    <item
+        jar="/home/ftg/Development/Klik/ListOfThings/app/build/intermediates/exploded-aar/com.android.support/design/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.0"
+        sha1="26384be22ddc74cfe197ebda9edbc7d1fd8bd537">
+        <dex dex="/home/ftg/Development/Klik/ListOfThings/app/build/intermediates/pre-dexed/dev/debug/com.android.support-design-25.0.0_bcd757300e7205e36e609171a1a2fd52d17ce7ec.jar" />
+    </item>
+    <item
+        jar="/home/ftg/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit/retrofit-mock/1.9.0/ce012d9c8bcbe9f4f2d3f29254ce9d4fda205230/retrofit-mock-1.9.0.jar"
+        jumboMode="false"
+        revision="25.0.0"
+        sha1="ce012d9c8bcbe9f4f2d3f29254ce9d4fda205230">
+        <dex dex="/home/ftg/Development/Klik/ListOfThings/app/build/intermediates/pre-dexed/dev/debug/retrofit-mock-1.9.0_b583fc006271d7b97139d54d6637fdb71cce2892.jar" />
+    </item>
+    <item
+        jar="/home/ftg/Development/Klik/ListOfThings/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        revision="25.0.0"
+        sha1="ee5faf4dee5b6a4364bf51587871047dde7c703a">
+        <dex dex="/home/ftg/Development/Klik/ListOfThings/app/build/intermediates/pre-dexed/dev/debug/internal_impl-25.0.0_25ef29586451d5bed3f571c7aaaaaf389f48e9aa.jar" />
+    </item>
+    <item
+        jar="/home/ftg/Development/Klik/ListOfThings/app/build/intermediates/exploded-aar/io.reactivex/rxandroid/1.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.0"
+        sha1="d4c4b83de2f6412072d2a29b1b7a5b03edaad5ff">
+        <dex dex="/home/ftg/Development/Klik/ListOfThings/app/build/intermediates/pre-dexed/dev/debug/io.reactivex-rxandroid-1.1.0_12ce8c96e354b716517a982a40b7d5e36ebf8a8e.jar" />
+    </item>
+    <item
+        jar="/home/ftg/Development/Klik/ListOfThings/app/build/intermediates/exploded-aar/me.everything/overscroll-decor-android/1.0.3/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.0"
+        sha1="ba8947cadbea6f541311482465e0dbd13f1cded8">
+        <dex dex="/home/ftg/Development/Klik/ListOfThings/app/build/intermediates/pre-dexed/dev/debug/me.everything-overscroll-decor-android-1.0.3_315ae4e961d79cdd12d0a021e668a791013da55a.jar" />
+    </item>
+    <item
+        jar="/home/ftg/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="false"
+        revision="25.0.0"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/home/ftg/Development/Klik/ListOfThings/app/build/intermediates/pre-dexed/dev/debug/javax.inject-1_15fb2074893f421c9a9c2a8256c2d1f86618accd.jar" />
+    </item>
+    <item
+        jar="/home/ftg/Development/Klik/ListOfThings/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.0"
+        sha1="76fb65a4b41ea42dab8a1310ed772a2420c96b52">
+        <dex dex="/home/ftg/Development/Klik/ListOfThings/app/build/intermediates/pre-dexed/dev/debug/com.android.support-support-media-compat-25.0.0_1423ef840c4a219ce22eba37dfac2070928e8c4c.jar" />
+    </item>
+    <item
+        jar="/home/ftg/Development/Klik/ListOfThings/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.0"
+        sha1="d29714cc76b38157e3cbd034c66e1ec808eb4c19">
+        <dex dex="/home/ftg/Development/Klik/ListOfThings/app/build/intermediates/pre-dexed/dev/debug/com.android.support-support-vector-drawable-25.0.0_d3b97b8f0803e84e48e244bea06eb165f6b267ed.jar" />
+    </item>
+    <item
+        jar="/home/ftg/Development/Klik/ListOfThings/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        revision="25.0.0"
+        sha1="3b61a70884adaf0be3fc06c70c801e3e6df13133">
+        <dex dex="/home/ftg/Development/Klik/ListOfThings/app/build/intermediates/pre-dexed/dev/debug/internal_impl-25.0.0_a9cd9a316f45c9792a2dfb6ad94084ba98858a56.jar" />
+    </item>
+    <item
+        jar="/home/ftg/Development/Klik/ListOfThings/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.0"
+        sha1="4ccbcda5c72027c7f7c14be9ff8640d9cb0d8da0">
+        <dex dex="/home/ftg/Development/Klik/ListOfThings/app/build/intermediates/pre-dexed/dev/debug/com.android.support-support-core-utils-25.0.0_2fb984faf074050c31c13b4067e70ffe15e3b0d4.jar" />
+    </item>
+    <item
+        jar="/home/ftg/Development/Klik/ListOfThings/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.0"
+        sha1="07daa0b6e1d455c82a38422ffe287c18823d339a">
+        <dex dex="/home/ftg/Development/Klik/ListOfThings/app/build/intermediates/pre-dexed/dev/debug/com.android.support-support-fragment-25.0.0_b3e09435cc29cb8f7dca37189b55c33ca28f71b3.jar" />
+    </item>
+    <item
+        jar="/home/ftg/Development/Klik/ListOfThings/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.0"
+        sha1="75b1f366ff0bbc78f8b1f7cf0dc82e7c53afef6a">
+        <dex dex="/home/ftg/Development/Klik/ListOfThings/app/build/intermediates/pre-dexed/dev/debug/com.android.support-support-compat-25.0.0_d70f2153f4b9ac2408bbb109e7ea23bce950fea0.jar" />
+    </item>
+    <item
+        jar="/home/ftg/.gradle/caches/modules-2/files-2.1/com.squareup.haha/haha/2.0.2/fd65b84d12d6adc77ec0e4fcaca623fc391d8679/haha-2.0.2.jar"
+        jumboMode="false"
+        revision="25.0.0"
+        sha1="fd65b84d12d6adc77ec0e4fcaca623fc391d8679">
+        <dex dex="/home/ftg/Development/Klik/ListOfThings/app/build/intermediates/pre-dexed/dev/debug/haha-2.0.2_68902c5848b68e5aaf480d90e32edd30c26577e1.jar" />
+    </item>
+    <item
+        jar="/home/ftg/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.2.0/c0b52915a48fa91b1b94a28d4a2997bac5f524df/okio-1.2.0.jar"
+        jumboMode="false"
+        revision="25.0.0"
+        sha1="c0b52915a48fa91b1b94a28d4a2997bac5f524df">
+        <dex dex="/home/ftg/Development/Klik/ListOfThings/app/build/intermediates/pre-dexed/dev/debug/okio-1.2.0_cf9b342db191e0281748ff65c165ae3666d9c6e5.jar" />
+    </item>
+    <item
+        jar="/home/ftg/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit/retrofit/1.9.0/a681c044244d9fc375198588297a39ba78028423/retrofit-1.9.0.jar"
+        jumboMode="false"
+        revision="25.0.0"
+        sha1="a681c044244d9fc375198588297a39ba78028423">
+        <dex dex="/home/ftg/Development/Klik/ListOfThings/app/build/intermediates/pre-dexed/dev/debug/retrofit-1.9.0_79d679f602fb76cfb1b9177223e0637ee38d2f42.jar" />
+    </item>
+    <item
+        jar="/home/ftg/Development/Klik/ListOfThings/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.0"
+        sha1="8bc45ce1f63d1a391fd38b32a201be5a42f9c95d">
+        <dex dex="/home/ftg/Development/Klik/ListOfThings/app/build/intermediates/pre-dexed/dev/debug/com.android.support-appcompat-v7-25.0.0_1e6f9f251cef0135df026cbc13aad9ef61e36ac5.jar" />
+    </item>
+    <item
+        jar="/home/ftg/.gradle/caches/modules-2/files-2.1/com.squareup.leakcanary/leakcanary-analyzer/1.4-beta2/449777cd466ac0a16f7e8d0dc508e70e2cdd13a9/leakcanary-analyzer-1.4-beta2.jar"
+        jumboMode="false"
+        revision="25.0.0"
+        sha1="449777cd466ac0a16f7e8d0dc508e70e2cdd13a9">
+        <dex dex="/home/ftg/Development/Klik/ListOfThings/app/build/intermediates/pre-dexed/dev/debug/leakcanary-analyzer-1.4-beta2_4d2fc03629e04c04bc7276be19b39e7edfd3c030.jar" />
+    </item>
+    <item
+        jar="/home/ftg/.gradle/caches/modules-2/files-2.1/com.google.dagger/dagger/2.0.1/1261dfca5bae89a866a2855552da26feab7f8fad/dagger-2.0.1.jar"
+        jumboMode="false"
+        revision="25.0.0"
+        sha1="1261dfca5bae89a866a2855552da26feab7f8fad">
+        <dex dex="/home/ftg/Development/Klik/ListOfThings/app/build/intermediates/pre-dexed/dev/debug/dagger-2.0.1_3f0249d5fb09085eaf0ec3eaad3acd275f5239f6.jar" />
+    </item>
+    <item
+        jar="/home/ftg/Development/Klik/ListOfThings/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        revision="25.0.0"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="/home/ftg/Development/Klik/ListOfThings/app/build/intermediates/pre-dexed/dev/debug/internal_impl-25.0.0_d65eb9a3c8c05aa5013f73fc23cd049d1f0a3599.jar" />
+    </item>
+    <item
+        jar="/home/ftg/Development/Klik/ListOfThings/app/build/intermediates/exploded-aar/com.android.support/transition/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.0"
+        sha1="0c6d948e6cb9ea6f535d175fb61ba2930719c0e9">
+        <dex dex="/home/ftg/Development/Klik/ListOfThings/app/build/intermediates/pre-dexed/dev/debug/com.android.support-transition-25.0.0_05d9ab8f0d2eff1e7146e1fe7cbd2c8258749a29.jar" />
+    </item>
+    <item
+        jar="/home/ftg/Development/Klik/ListOfThings/app/build/intermediates/exploded-aar/com.jakewharton.rxbinding/rxbinding/0.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.0"
+        sha1="ffc09f4e5bdebe068e5101f587dadc42b60fbfe4">
+        <dex dex="/home/ftg/Development/Klik/ListOfThings/app/build/intermediates/pre-dexed/dev/debug/com.jakewharton.rxbinding-rxbinding-0.4.0_fe310a4d610759e6952cdcad8158b964eea81774.jar" />
+    </item>
+    <item
+        jar="/home/ftg/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.4/695b63d702f505b9b916e02272e3b6381bade7f/gson-2.4.jar"
+        jumboMode="false"
+        revision="25.0.0"
+        sha1="0695b63d702f505b9b916e02272e3b6381bade7f">
+        <dex dex="/home/ftg/Development/Klik/ListOfThings/app/build/intermediates/pre-dexed/dev/debug/gson-2.4_b7cf82bc6c71d4ec05eb27cc8dcd6954bed665bd.jar" />
+    </item>
+    <item
+        jar="/home/ftg/.gradle/caches/modules-2/files-2.1/com.squareup.leakcanary/leakcanary-watcher/1.4-beta2/6a920fb0d14e5e3b36e37cf33b1eeef2bcce4c92/leakcanary-watcher-1.4-beta2.jar"
+        jumboMode="false"
+        revision="25.0.0"
+        sha1="6a920fb0d14e5e3b36e37cf33b1eeef2bcce4c92">
+        <dex dex="/home/ftg/Development/Klik/ListOfThings/app/build/intermediates/pre-dexed/dev/debug/leakcanary-watcher-1.4-beta2_3b944695d641327b2ca680d35db1363d5f53f8c6.jar" />
+    </item>
+    <item
+        jar="/home/ftg/Development/Klik/ListOfThings/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.0"
+        sha1="5e497d60f0cb6ce87c458ac5420a46d0fed49bd0">
+        <dex dex="/home/ftg/Development/Klik/ListOfThings/app/build/intermediates/pre-dexed/dev/debug/com.android.support-recyclerview-v7-25.0.0_eec1df02fe9fc4d84a97a301a77b4589fb431477.jar" />
+    </item>
+
+</items>
