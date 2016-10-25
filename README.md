@@ -1,5 +1,5 @@
-# ListOfThings app
-This app is example/skeleton/basic example of very recomendded Android Architecture
+# CleanList app
+This app is example/skeleton/basic example of very recommended Android Architecture
 Using some of very best android library.
 
 ## These architectural techniques:
